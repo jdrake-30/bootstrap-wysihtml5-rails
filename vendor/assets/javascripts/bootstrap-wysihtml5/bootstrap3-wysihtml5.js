@@ -208,6 +208,7 @@ var bsWysihtml5 = function($, wysihtml5) {
       'image': true,
       'smallmodals': false
     },
+    useLineBreaks: false,
     parserRules: {
       classes: {
         'wysiwyg-color-silver' : 1,
